@@ -1,6 +1,6 @@
 # nfc-card
 A simple Postcard(Business Card) with NFC function
-![pic](./pic1.png)
+![pic](./pic.png)
 Designed by EasyEDA.
 BOM:
 a red LED-0603
